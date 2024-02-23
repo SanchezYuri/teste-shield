@@ -10,7 +10,9 @@ API feita na linguagem PHP usando laravel 8, com retorno JSON.
 Front usanda Jquery e Bootstrap 3.
 
 ## Instalação
-Abrar a pasta do projeto e na bash inicie com:
+Depois de clonar o repositorio.
+
+Abrar a pasta do projeto e na bash inicie com o comando:
 ```bash
   composer install
 ```
